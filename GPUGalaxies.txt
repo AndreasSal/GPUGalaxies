@@ -1,0 +1,1450 @@
+Reading data from files:
+
+
+Calculating DD...
+Done. Counter (number of additions): 10000000000
+Calculating RR...
+Done. Counter (number of additions): 20000000000
+Calculating DR...
+Done. Counter (number of additions): 30000000000
+Histogram DD: i: 0  Value: 2353744
+Histogram DD: i: 0  Value: 4357912
+Histogram DD: i: 0  Value: 5586344
+Histogram DD: i: 0  Value: 6483064
+Histogram DD: i: 1  Value: 7324868
+Histogram DD: i: 1  Value: 8172110
+Histogram DD: i: 1  Value: 8985492
+Histogram DD: i: 1  Value: 9791182
+Histogram DD: i: 2  Value: 10643460
+Histogram DD: i: 2  Value: 11408198
+Histogram DD: i: 2  Value: 12088840
+Histogram DD: i: 2  Value: 12825270
+Histogram DD: i: 3  Value: 13523398
+Histogram DD: i: 3  Value: 14170728
+Histogram DD: i: 3  Value: 14794374
+Histogram DD: i: 3  Value: 15508504
+Histogram DD: i: 4  Value: 16227864
+Histogram DD: i: 4  Value: 16890418
+Histogram DD: i: 4  Value: 17463694
+Histogram DD: i: 4  Value: 18043452
+Histogram DD: i: 5  Value: 18703120
+Histogram DD: i: 5  Value: 19388688
+Histogram DD: i: 5  Value: 20119848
+Histogram DD: i: 5  Value: 20832612
+Histogram DD: i: 6  Value: 21486280
+Histogram DD: i: 6  Value: 22086632
+Histogram DD: i: 6  Value: 22636458
+Histogram DD: i: 6  Value: 23160508
+Histogram DD: i: 7  Value: 23814720
+Histogram DD: i: 7  Value: 24394200
+Histogram DD: i: 7  Value: 24821346
+Histogram DD: i: 7  Value: 25170270
+Histogram DD: i: 8  Value: 25583270
+Histogram DD: i: 8  Value: 26091454
+Histogram DD: i: 8  Value: 26643242
+Histogram DD: i: 8  Value: 27239398
+Histogram DD: i: 9  Value: 27863588
+Histogram DD: i: 9  Value: 28678448
+Histogram DD: i: 9  Value: 29416338
+Histogram DD: i: 9  Value: 30147080
+Histogram DD: i: 10  Value: 30693176
+Histogram DD: i: 10  Value: 31113188
+Histogram DD: i: 10  Value: 31414130
+Histogram DD: i: 10  Value: 31574440
+Histogram DD: i: 11  Value: 31991018
+Histogram DD: i: 11  Value: 32620538
+Histogram DD: i: 11  Value: 33176160
+Histogram DD: i: 11  Value: 33749020
+Histogram DD: i: 12  Value: 34319912
+Histogram DD: i: 12  Value: 34713522
+Histogram DD: i: 12  Value: 35099480
+Histogram DD: i: 12  Value: 35402734
+Histogram DD: i: 13  Value: 35740764
+Histogram DD: i: 13  Value: 36038358
+Histogram DD: i: 13  Value: 36518250
+Histogram DD: i: 13  Value: 36799700
+Histogram DD: i: 14  Value: 37033168
+Histogram DD: i: 14  Value: 37508600
+Histogram DD: i: 14  Value: 37879298
+Histogram DD: i: 14  Value: 38171152
+Histogram DD: i: 15  Value: 38529426
+Histogram DD: i: 15  Value: 39032952
+Histogram DD: i: 15  Value: 39425612
+Histogram DD: i: 15  Value: 39586220
+Histogram DD: i: 16  Value: 39635408
+Histogram DD: i: 16  Value: 39729848
+Histogram DD: i: 16  Value: 40072590
+Histogram DD: i: 16  Value: 40423630
+Histogram DD: i: 17  Value: 40671218
+Histogram DD: i: 17  Value: 40968786
+Histogram DD: i: 17  Value: 41374422
+Histogram DD: i: 17  Value: 41845832
+Histogram DD: i: 18  Value: 42265166
+Histogram DD: i: 18  Value: 42781168
+Histogram DD: i: 18  Value: 43341704
+Histogram DD: i: 18  Value: 43793040
+Histogram DD: i: 19  Value: 44164192
+Histogram DD: i: 19  Value: 44360744
+Histogram DD: i: 19  Value: 44556322
+Histogram DD: i: 19  Value: 44869978
+Histogram DD: i: 20  Value: 45332840
+Histogram DD: i: 20  Value: 45681332
+Histogram DD: i: 20  Value: 45931412
+Histogram DD: i: 20  Value: 46171534
+Histogram DD: i: 21  Value: 46444240
+Histogram DD: i: 21  Value: 46814948
+Histogram DD: i: 21  Value: 47145944
+Histogram DD: i: 21  Value: 47560814
+Histogram DD: i: 22  Value: 48046576
+Histogram DD: i: 22  Value: 48460340
+Histogram DD: i: 22  Value: 48884378
+Histogram DD: i: 22  Value: 49202224
+Histogram DD: i: 23  Value: 49359428
+Histogram DD: i: 23  Value: 49653592
+Histogram DD: i: 23  Value: 49995568
+Histogram DD: i: 23  Value: 50057586
+Histogram DD: i: 24  Value: 50111486
+Histogram DD: i: 24  Value: 50244220
+Histogram DD: i: 24  Value: 50249016
+Histogram DD: i: 24  Value: 50483714
+Histogram DD: i: 25  Value: 50757350
+Histogram DD: i: 25  Value: 51088474
+Histogram DD: i: 25  Value: 51392518
+Histogram DD: i: 25  Value: 51789960
+Histogram DD: i: 26  Value: 52082508
+Histogram DD: i: 26  Value: 52364312
+Histogram DD: i: 26  Value: 52752270
+Histogram DD: i: 26  Value: 52955898
+Histogram DD: i: 27  Value: 52918682
+Histogram DD: i: 27  Value: 52945304
+Histogram DD: i: 27  Value: 52944956
+Histogram DD: i: 27  Value: 53003248
+Histogram DD: i: 28  Value: 53267640
+Histogram DD: i: 28  Value: 53379528
+Histogram DD: i: 28  Value: 53512738
+Histogram DD: i: 28  Value: 53543794
+Histogram DD: i: 29  Value: 53596148
+Histogram DD: i: 29  Value: 53570996
+Histogram DD: i: 29  Value: 53494892
+Histogram DD: i: 29  Value: 53498930
+Histogram DD: i: 30  Value: 53285212
+Histogram DD: i: 30  Value: 53268214
+Histogram DD: i: 30  Value: 53269508
+Histogram DD: i: 30  Value: 53279912
+Histogram DD: i: 31  Value: 53247244
+Histogram DD: i: 31  Value: 53293286
+Histogram DD: i: 31  Value: 53311782
+Histogram DD: i: 31  Value: 53349792
+Histogram DD: i: 32  Value: 53441254
+Histogram DD: i: 32  Value: 53531068
+Histogram DD: i: 32  Value: 53485616
+Histogram DD: i: 32  Value: 53442138
+Histogram DD: i: 33  Value: 53593000
+Histogram DD: i: 33  Value: 53924712
+Histogram DD: i: 33  Value: 54026370
+Histogram DD: i: 33  Value: 54111372
+Histogram DD: i: 34  Value: 54163788
+Histogram DD: i: 34  Value: 54342258
+Histogram DD: i: 34  Value: 54508444
+Histogram DD: i: 34  Value: 54302518
+Histogram DD: i: 35  Value: 53919336
+Histogram DD: i: 35  Value: 53681794
+Histogram DD: i: 35  Value: 53514664
+Histogram DD: i: 35  Value: 53435548
+Histogram DD: i: 36  Value: 53209296
+Histogram DD: i: 36  Value: 53022250
+Histogram DD: i: 36  Value: 52653852
+Histogram DD: i: 36  Value: 52261024
+Histogram DD: i: 37  Value: 51747012
+Histogram DD: i: 37  Value: 51327666
+Histogram DD: i: 37  Value: 51066620
+Histogram DD: i: 37  Value: 50979030
+Histogram DD: i: 38  Value: 50907920
+Histogram DD: i: 38  Value: 50786276
+Histogram DD: i: 38  Value: 50565256
+Histogram DD: i: 38  Value: 50145570
+Histogram DD: i: 39  Value: 49809208
+Histogram DD: i: 39  Value: 49518228
+Histogram DD: i: 39  Value: 49264402
+Histogram DD: i: 39  Value: 49057544
+Histogram DD: i: 40  Value: 48750720
+Histogram DD: i: 40  Value: 48448984
+Histogram DD: i: 40  Value: 48204692
+Histogram DD: i: 40  Value: 47739634
+Histogram DD: i: 41  Value: 47280746
+Histogram DD: i: 41  Value: 46867162
+Histogram DD: i: 41  Value: 46575500
+Histogram DD: i: 41  Value: 46576808
+Histogram DD: i: 42  Value: 46481094
+Histogram DD: i: 42  Value: 46282446
+Histogram DD: i: 42  Value: 45949046
+Histogram DD: i: 42  Value: 45801710
+Histogram DD: i: 43  Value: 45632316
+Histogram DD: i: 43  Value: 45276528
+Histogram DD: i: 43  Value: 45073086
+Histogram DD: i: 43  Value: 45027218
+Histogram DD: i: 44  Value: 44930686
+Histogram DD: i: 44  Value: 44642028
+Histogram DD: i: 44  Value: 44284948
+Histogram DD: i: 44  Value: 44037636
+Histogram DD: i: 45  Value: 43796506
+Histogram DD: i: 45  Value: 43347914
+Histogram DD: i: 45  Value: 42902432
+Histogram DD: i: 45  Value: 42786922
+Histogram DD: i: 46  Value: 42603628
+Histogram DD: i: 46  Value: 42509794
+Histogram DD: i: 46  Value: 42171108
+Histogram DD: i: 46  Value: 41658678
+Histogram DD: i: 47  Value: 40954712
+Histogram DD: i: 47  Value: 40379312
+Histogram DD: i: 47  Value: 39918248
+Histogram DD: i: 47  Value: 39536852
+Histogram DD: i: 48  Value: 39048358
+Histogram DD: i: 48  Value: 38485006
+Histogram DD: i: 48  Value: 37896638
+Histogram DD: i: 48  Value: 37381946
+Histogram DD: i: 49  Value: 36885600
+Histogram DD: i: 49  Value: 36350262
+Histogram DD: i: 49  Value: 35677292
+Histogram DD: i: 49  Value: 35061170
+Histogram DD: i: 50  Value: 34647330
+Histogram DD: i: 50  Value: 34189230
+Histogram DD: i: 50  Value: 33733820
+Histogram DD: i: 50  Value: 33269542
+Histogram DD: i: 51  Value: 32892812
+Histogram DD: i: 51  Value: 32590360
+Histogram DD: i: 51  Value: 32354192
+Histogram DD: i: 51  Value: 31934768
+Histogram DD: i: 52  Value: 31583602
+Histogram DD: i: 52  Value: 31171368
+Histogram DD: i: 52  Value: 30663462
+Histogram DD: i: 52  Value: 30195608
+Histogram DD: i: 53  Value: 29757150
+Histogram DD: i: 53  Value: 29400838
+Histogram DD: i: 53  Value: 28928992
+Histogram DD: i: 53  Value: 28471032
+Histogram DD: i: 54  Value: 28159200
+Histogram DD: i: 54  Value: 27788206
+Histogram DD: i: 54  Value: 27494526
+Histogram DD: i: 54  Value: 27005362
+Histogram DD: i: 55  Value: 26466224
+Histogram DD: i: 55  Value: 25941256
+Histogram DD: i: 55  Value: 25457272
+Histogram DD: i: 55  Value: 25104756
+Histogram DD: i: 56  Value: 24671460
+Histogram DD: i: 56  Value: 24230558
+Histogram DD: i: 56  Value: 23772450
+Histogram DD: i: 56  Value: 23283368
+Histogram DD: i: 57  Value: 22858122
+Histogram DD: i: 57  Value: 22460632
+Histogram DD: i: 57  Value: 22067766
+Histogram DD: i: 57  Value: 21732106
+Histogram DD: i: 58  Value: 21389244
+Histogram DD: i: 58  Value: 21026588
+Histogram DD: i: 58  Value: 20788340
+Histogram DD: i: 58  Value: 20490720
+Histogram DD: i: 59  Value: 20172860
+Histogram DD: i: 59  Value: 19864850
+Histogram DD: i: 59  Value: 19606104
+Histogram DD: i: 59  Value: 19340932
+Histogram DD: i: 60  Value: 19020136
+Histogram DD: i: 60  Value: 18667108
+Histogram DD: i: 60  Value: 18296540
+Histogram DD: i: 60  Value: 18052030
+Histogram DD: i: 61  Value: 17814728
+Histogram DD: i: 61  Value: 17576646
+Histogram DD: i: 61  Value: 17333436
+Histogram DD: i: 61  Value: 17114660
+Histogram DD: i: 62  Value: 16884614
+Histogram DD: i: 62  Value: 16628102
+Histogram DD: i: 62  Value: 16282720
+Histogram DD: i: 62  Value: 15892492
+Histogram DD: i: 63  Value: 15699166
+Histogram DD: i: 63  Value: 15592044
+Histogram DD: i: 63  Value: 15344726
+Histogram DD: i: 63  Value: 15049266
+Histogram DD: i: 64  Value: 14807444
+Histogram DD: i: 64  Value: 14526238
+Histogram DD: i: 64  Value: 14356074
+Histogram DD: i: 64  Value: 14124958
+Histogram DD: i: 65  Value: 13882968
+Histogram DD: i: 65  Value: 13617152
+Histogram DD: i: 65  Value: 13363044
+Histogram DD: i: 65  Value: 13153468
+Histogram DD: i: 66  Value: 12933728
+Histogram DD: i: 66  Value: 12705974
+Histogram DD: i: 66  Value: 12461678
+Histogram DD: i: 66  Value: 12193616
+Histogram DD: i: 67  Value: 11937098
+Histogram DD: i: 67  Value: 11658366
+Histogram DD: i: 67  Value: 11373268
+Histogram DD: i: 67  Value: 11205412
+Histogram DD: i: 68  Value: 10948348
+Histogram DD: i: 68  Value: 10692936
+Histogram DD: i: 68  Value: 10462646
+Histogram DD: i: 68  Value: 10299586
+Histogram DD: i: 69  Value: 10118382
+Histogram DD: i: 69  Value: 9862330
+Histogram DD: i: 69  Value: 9537542
+Histogram DD: i: 69  Value: 9244942
+Histogram DD: i: 70  Value: 9023486
+Histogram DD: i: 70  Value: 8897888
+Histogram DD: i: 70  Value: 8702682
+Histogram DD: i: 70  Value: 8501544
+Histogram DD: i: 71  Value: 8395168
+Histogram DD: i: 71  Value: 8221672
+Histogram DD: i: 71  Value: 8068984
+Histogram DD: i: 71  Value: 7928702
+Histogram DD: i: 72  Value: 7798984
+Histogram DD: i: 72  Value: 7664654
+Histogram DD: i: 72  Value: 7535098
+Histogram DD: i: 72  Value: 7409952
+Histogram DD: i: 73  Value: 7251290
+Histogram DD: i: 73  Value: 7020598
+Histogram DD: i: 73  Value: 6747826
+Histogram DD: i: 73  Value: 6481842
+Histogram DD: i: 74  Value: 6253556
+Histogram DD: i: 74  Value: 6083282
+Histogram DD: i: 74  Value: 5943016
+Histogram DD: i: 74  Value: 5773848
+Histogram DD: i: 75  Value: 5628158
+Histogram DD: i: 75  Value: 5443106
+Histogram DD: i: 75  Value: 5260214
+Histogram DD: i: 75  Value: 5036222
+Histogram DD: i: 76  Value: 4800050
+Histogram DD: i: 76  Value: 4630476
+Histogram DD: i: 76  Value: 4506084
+Histogram DD: i: 76  Value: 4352132
+Histogram DD: i: 77  Value: 4244264
+Histogram DD: i: 77  Value: 4169434
+Histogram DD: i: 77  Value: 4052334
+Histogram DD: i: 77  Value: 3945046
+Histogram DD: i: 78  Value: 3834202
+Histogram DD: i: 78  Value: 3768498
+Histogram DD: i: 78  Value: 3657766
+Histogram DD: i: 78  Value: 3580702
+Histogram DD: i: 79  Value: 3464590
+Histogram DD: i: 79  Value: 3321046
+Histogram DD: i: 79  Value: 3183826
+Histogram DD: i: 79  Value: 3018854
+Histogram DD: i: 80  Value: 2952514
+Histogram DD: i: 80  Value: 2908236
+Histogram DD: i: 80  Value: 2821220
+Histogram DD: i: 80  Value: 2726438
+Histogram DD: i: 81  Value: 2639090
+Histogram DD: i: 81  Value: 2526494
+Histogram DD: i: 81  Value: 2433498
+Histogram DD: i: 81  Value: 2349170
+Histogram DD: i: 82  Value: 2258120
+Histogram DD: i: 82  Value: 2147720
+Histogram DD: i: 82  Value: 2036572
+Histogram DD: i: 82  Value: 1971530
+Histogram DD: i: 83  Value: 1883944
+Histogram DD: i: 83  Value: 1827250
+Histogram DD: i: 83  Value: 1722410
+Histogram DD: i: 83  Value: 1635220
+Histogram DD: i: 84  Value: 1558692
+Histogram DD: i: 84  Value: 1494058
+Histogram DD: i: 84  Value: 1393940
+Histogram DD: i: 84  Value: 1320232
+Histogram DD: i: 85  Value: 1216202
+Histogram DD: i: 85  Value: 1087676
+Histogram DD: i: 85  Value: 996690
+Histogram DD: i: 85  Value: 904712
+Histogram DD: i: 86  Value: 830202
+Histogram DD: i: 86  Value: 759488
+Histogram DD: i: 86  Value: 691286
+Histogram DD: i: 86  Value: 611944
+Histogram DD: i: 87  Value: 550660
+Histogram DD: i: 87  Value: 508752
+Histogram DD: i: 87  Value: 460852
+Histogram DD: i: 87  Value: 398746
+Histogram DD: i: 88  Value: 349106
+Histogram DD: i: 88  Value: 286518
+Histogram DD: i: 88  Value: 228310
+Histogram DD: i: 88  Value: 177688
+Histogram DD: i: 89  Value: 115578
+Histogram DD: i: 89  Value: 59826
+Histogram DD: i: 89  Value: 21312
+Histogram DD: i: 89  Value: 2438
+Histogram RR: i: 0  Value: 1141194
+Histogram RR: i: 0  Value: 2674044
+Histogram RR: i: 0  Value: 4057494
+Histogram RR: i: 0  Value: 5272702
+Histogram RR: i: 1  Value: 6390180
+Histogram RR: i: 1  Value: 7467724
+Histogram RR: i: 1  Value: 8468386
+Histogram RR: i: 1  Value: 9434728
+Histogram RR: i: 2  Value: 10332756
+Histogram RR: i: 2  Value: 11201848
+Histogram RR: i: 2  Value: 12079786
+Histogram RR: i: 2  Value: 12896622
+Histogram RR: i: 3  Value: 13688998
+Histogram RR: i: 3  Value: 14445614
+Histogram RR: i: 3  Value: 15172428
+Histogram RR: i: 3  Value: 15923604
+Histogram RR: i: 4  Value: 16615754
+Histogram RR: i: 4  Value: 17302260
+Histogram RR: i: 4  Value: 17952174
+Histogram RR: i: 4  Value: 18572964
+Histogram RR: i: 5  Value: 19202324
+Histogram RR: i: 5  Value: 19816918
+Histogram RR: i: 5  Value: 20410650
+Histogram RR: i: 5  Value: 20985954
+Histogram RR: i: 6  Value: 21554908
+Histogram RR: i: 6  Value: 22096356
+Histogram RR: i: 6  Value: 22613330
+Histogram RR: i: 6  Value: 23167268
+Histogram RR: i: 7  Value: 23689952
+Histogram RR: i: 7  Value: 24222658
+Histogram RR: i: 7  Value: 24717164
+Histogram RR: i: 7  Value: 25170802
+Histogram RR: i: 8  Value: 25677668
+Histogram RR: i: 8  Value: 26137256
+Histogram RR: i: 8  Value: 26559268
+Histogram RR: i: 8  Value: 26976864
+Histogram RR: i: 9  Value: 27415326
+Histogram RR: i: 9  Value: 27825676
+Histogram RR: i: 9  Value: 28236358
+Histogram RR: i: 9  Value: 28636760
+Histogram RR: i: 10  Value: 29055858
+Histogram RR: i: 10  Value: 29422614
+Histogram RR: i: 10  Value: 29808838
+Histogram RR: i: 10  Value: 30167622
+Histogram RR: i: 11  Value: 30494812
+Histogram RR: i: 11  Value: 30876734
+Histogram RR: i: 11  Value: 31180328
+Histogram RR: i: 11  Value: 31517980
+Histogram RR: i: 12  Value: 31882386
+Histogram RR: i: 12  Value: 32194276
+Histogram RR: i: 12  Value: 32509878
+Histogram RR: i: 12  Value: 32811528
+Histogram RR: i: 13  Value: 33096400
+Histogram RR: i: 13  Value: 33388032
+Histogram RR: i: 13  Value: 33712422
+Histogram RR: i: 13  Value: 33967038
+Histogram RR: i: 14  Value: 34242920
+Histogram RR: i: 14  Value: 34510024
+Histogram RR: i: 14  Value: 34786814
+Histogram RR: i: 14  Value: 35051792
+Histogram RR: i: 15  Value: 35307728
+Histogram RR: i: 15  Value: 35542236
+Histogram RR: i: 15  Value: 35811048
+Histogram RR: i: 15  Value: 36068886
+Histogram RR: i: 16  Value: 36321416
+Histogram RR: i: 16  Value: 36554014
+Histogram RR: i: 16  Value: 36776328
+Histogram RR: i: 16  Value: 37017632
+Histogram RR: i: 17  Value: 37214952
+Histogram RR: i: 17  Value: 37435066
+Histogram RR: i: 17  Value: 37629310
+Histogram RR: i: 17  Value: 37837802
+Histogram RR: i: 18  Value: 38000856
+Histogram RR: i: 18  Value: 38204236
+Histogram RR: i: 18  Value: 38399002
+Histogram RR: i: 18  Value: 38563120
+Histogram RR: i: 19  Value: 38704852
+Histogram RR: i: 19  Value: 38887550
+Histogram RR: i: 19  Value: 39054130
+Histogram RR: i: 19  Value: 39217684
+Histogram RR: i: 20  Value: 39380406
+Histogram RR: i: 20  Value: 39530868
+Histogram RR: i: 20  Value: 39642712
+Histogram RR: i: 20  Value: 39786476
+Histogram RR: i: 21  Value: 39915738
+Histogram RR: i: 21  Value: 40003440
+Histogram RR: i: 21  Value: 40160400
+Histogram RR: i: 21  Value: 40306374
+Histogram RR: i: 22  Value: 40437626
+Histogram RR: i: 22  Value: 40546380
+Histogram RR: i: 22  Value: 40649240
+Histogram RR: i: 22  Value: 40775812
+Histogram RR: i: 23  Value: 40857504
+Histogram RR: i: 23  Value: 40955942
+Histogram RR: i: 23  Value: 41046860
+Histogram RR: i: 23  Value: 41142070
+Histogram RR: i: 24  Value: 41242968
+Histogram RR: i: 24  Value: 41301312
+Histogram RR: i: 24  Value: 41361534
+Histogram RR: i: 24  Value: 41439748
+Histogram RR: i: 25  Value: 41515982
+Histogram RR: i: 25  Value: 41590916
+Histogram RR: i: 25  Value: 41653974
+Histogram RR: i: 25  Value: 41710324
+Histogram RR: i: 26  Value: 41761608
+Histogram RR: i: 26  Value: 41841744
+Histogram RR: i: 26  Value: 41893370
+Histogram RR: i: 26  Value: 41951658
+Histogram RR: i: 27  Value: 42004718
+Histogram RR: i: 27  Value: 41993870
+Histogram RR: i: 27  Value: 42029344
+Histogram RR: i: 27  Value: 42100696
+Histogram RR: i: 28  Value: 42147578
+Histogram RR: i: 28  Value: 42201110
+Histogram RR: i: 28  Value: 42245160
+Histogram RR: i: 28  Value: 42286128
+Histogram RR: i: 29  Value: 42318772
+Histogram RR: i: 29  Value: 42364174
+Histogram RR: i: 29  Value: 42367296
+Histogram RR: i: 29  Value: 42390900
+Histogram RR: i: 30  Value: 42412064
+Histogram RR: i: 30  Value: 42437784
+Histogram RR: i: 30  Value: 42450924
+Histogram RR: i: 30  Value: 42445472
+Histogram RR: i: 31  Value: 42450848
+Histogram RR: i: 31  Value: 42446908
+Histogram RR: i: 31  Value: 42434776
+Histogram RR: i: 31  Value: 42401016
+Histogram RR: i: 32  Value: 42371026
+Histogram RR: i: 32  Value: 42361810
+Histogram RR: i: 32  Value: 42327174
+Histogram RR: i: 32  Value: 42324302
+Histogram RR: i: 33  Value: 42294862
+Histogram RR: i: 33  Value: 42299246
+Histogram RR: i: 33  Value: 42280442
+Histogram RR: i: 33  Value: 42271224
+Histogram RR: i: 34  Value: 42219458
+Histogram RR: i: 34  Value: 42185252
+Histogram RR: i: 34  Value: 42157010
+Histogram RR: i: 34  Value: 42130896
+Histogram RR: i: 35  Value: 42055272
+Histogram RR: i: 35  Value: 42013752
+Histogram RR: i: 35  Value: 41947552
+Histogram RR: i: 35  Value: 41893760
+Histogram RR: i: 36  Value: 41841818
+Histogram RR: i: 36  Value: 41777416
+Histogram RR: i: 36  Value: 41718762
+Histogram RR: i: 36  Value: 41663116
+Histogram RR: i: 37  Value: 41609976
+Histogram RR: i: 37  Value: 41559130
+Histogram RR: i: 37  Value: 41500498
+Histogram RR: i: 37  Value: 41449192
+Histogram RR: i: 38  Value: 41347570
+Histogram RR: i: 38  Value: 41256574
+Histogram RR: i: 38  Value: 41194220
+Histogram RR: i: 38  Value: 41141512
+Histogram RR: i: 39  Value: 41055886
+Histogram RR: i: 39  Value: 40973712
+Histogram RR: i: 39  Value: 40885918
+Histogram RR: i: 39  Value: 40768108
+Histogram RR: i: 40  Value: 40672196
+Histogram RR: i: 40  Value: 40571734
+Histogram RR: i: 40  Value: 40517220
+Histogram RR: i: 40  Value: 40419990
+Histogram RR: i: 41  Value: 40362628
+Histogram RR: i: 41  Value: 40278070
+Histogram RR: i: 41  Value: 40167020
+Histogram RR: i: 41  Value: 40076536
+Histogram RR: i: 42  Value: 39989134
+Histogram RR: i: 42  Value: 39914638
+Histogram RR: i: 42  Value: 39795866
+Histogram RR: i: 42  Value: 39683446
+Histogram RR: i: 43  Value: 39597304
+Histogram RR: i: 43  Value: 39487390
+Histogram RR: i: 43  Value: 39386616
+Histogram RR: i: 43  Value: 39281876
+Histogram RR: i: 44  Value: 39164432
+Histogram RR: i: 44  Value: 39051374
+Histogram RR: i: 44  Value: 38918342
+Histogram RR: i: 44  Value: 38798800
+Histogram RR: i: 45  Value: 38643696
+Histogram RR: i: 45  Value: 38469602
+Histogram RR: i: 45  Value: 38334604
+Histogram RR: i: 45  Value: 38169876
+Histogram RR: i: 46  Value: 38072270
+Histogram RR: i: 46  Value: 37932400
+Histogram RR: i: 46  Value: 37799930
+Histogram RR: i: 46  Value: 37647266
+Histogram RR: i: 47  Value: 37497006
+Histogram RR: i: 47  Value: 37347108
+Histogram RR: i: 47  Value: 37196848
+Histogram RR: i: 47  Value: 37078766
+Histogram RR: i: 48  Value: 36943764
+Histogram RR: i: 48  Value: 36798796
+Histogram RR: i: 48  Value: 36618600
+Histogram RR: i: 48  Value: 36454620
+Histogram RR: i: 49  Value: 36320682
+Histogram RR: i: 49  Value: 36172634
+Histogram RR: i: 49  Value: 36019176
+Histogram RR: i: 49  Value: 35897228
+Histogram RR: i: 50  Value: 35733658
+Histogram RR: i: 50  Value: 35550216
+Histogram RR: i: 50  Value: 35393082
+Histogram RR: i: 50  Value: 35246420
+Histogram RR: i: 51  Value: 35084798
+Histogram RR: i: 51  Value: 34898542
+Histogram RR: i: 51  Value: 34733190
+Histogram RR: i: 51  Value: 34579750
+Histogram RR: i: 52  Value: 34432942
+Histogram RR: i: 52  Value: 34270232
+Histogram RR: i: 52  Value: 34075622
+Histogram RR: i: 52  Value: 33909376
+Histogram RR: i: 53  Value: 33749280
+Histogram RR: i: 53  Value: 33553762
+Histogram RR: i: 53  Value: 33373772
+Histogram RR: i: 53  Value: 33190492
+Histogram RR: i: 54  Value: 33034082
+Histogram RR: i: 54  Value: 32850648
+Histogram RR: i: 54  Value: 32658154
+Histogram RR: i: 54  Value: 32440374
+Histogram RR: i: 55  Value: 32279130
+Histogram RR: i: 55  Value: 32115910
+Histogram RR: i: 55  Value: 31902188
+Histogram RR: i: 55  Value: 31748658
+Histogram RR: i: 56  Value: 31555412
+Histogram RR: i: 56  Value: 31349246
+Histogram RR: i: 56  Value: 31171274
+Histogram RR: i: 56  Value: 30995608
+Histogram RR: i: 57  Value: 30801898
+Histogram RR: i: 57  Value: 30618460
+Histogram RR: i: 57  Value: 30388766
+Histogram RR: i: 57  Value: 30168826
+Histogram RR: i: 58  Value: 29956842
+Histogram RR: i: 58  Value: 29725682
+Histogram RR: i: 58  Value: 29517676
+Histogram RR: i: 58  Value: 29328662
+Histogram RR: i: 59  Value: 29115224
+Histogram RR: i: 59  Value: 28871722
+Histogram RR: i: 59  Value: 28673634
+Histogram RR: i: 59  Value: 28463100
+Histogram RR: i: 60  Value: 28261152
+Histogram RR: i: 60  Value: 28046716
+Histogram RR: i: 60  Value: 27850334
+Histogram RR: i: 60  Value: 27662358
+Histogram RR: i: 61  Value: 27462156
+Histogram RR: i: 61  Value: 27261500
+Histogram RR: i: 61  Value: 27052834
+Histogram RR: i: 61  Value: 26862862
+Histogram RR: i: 62  Value: 26636752
+Histogram RR: i: 62  Value: 26454464
+Histogram RR: i: 62  Value: 26248052
+Histogram RR: i: 62  Value: 26014912
+Histogram RR: i: 63  Value: 25811602
+Histogram RR: i: 63  Value: 25598034
+Histogram RR: i: 63  Value: 25386826
+Histogram RR: i: 63  Value: 25201140
+Histogram RR: i: 64  Value: 24986782
+Histogram RR: i: 64  Value: 24790336
+Histogram RR: i: 64  Value: 24558982
+Histogram RR: i: 64  Value: 24330224
+Histogram RR: i: 65  Value: 24121848
+Histogram RR: i: 65  Value: 23897942
+Histogram RR: i: 65  Value: 23691044
+Histogram RR: i: 65  Value: 23461346
+Histogram RR: i: 66  Value: 23241198
+Histogram RR: i: 66  Value: 22984744
+Histogram RR: i: 66  Value: 22734604
+Histogram RR: i: 66  Value: 22476412
+Histogram RR: i: 67  Value: 22209486
+Histogram RR: i: 67  Value: 21940306
+Histogram RR: i: 67  Value: 21693160
+Histogram RR: i: 67  Value: 21458178
+Histogram RR: i: 68  Value: 21237586
+Histogram RR: i: 68  Value: 20986948
+Histogram RR: i: 68  Value: 20769190
+Histogram RR: i: 68  Value: 20512836
+Histogram RR: i: 69  Value: 20295004
+Histogram RR: i: 69  Value: 20072632
+Histogram RR: i: 69  Value: 19859588
+Histogram RR: i: 69  Value: 19631256
+Histogram RR: i: 70  Value: 19377580
+Histogram RR: i: 70  Value: 19134206
+Histogram RR: i: 70  Value: 18907954
+Histogram RR: i: 70  Value: 18666200
+Histogram RR: i: 71  Value: 18442742
+Histogram RR: i: 71  Value: 18222032
+Histogram RR: i: 71  Value: 17950326
+Histogram RR: i: 71  Value: 17713606
+Histogram RR: i: 72  Value: 17461866
+Histogram RR: i: 72  Value: 17223666
+Histogram RR: i: 72  Value: 16973238
+Histogram RR: i: 72  Value: 16733480
+Histogram RR: i: 73  Value: 16492820
+Histogram RR: i: 73  Value: 16245450
+Histogram RR: i: 73  Value: 16016024
+Histogram RR: i: 73  Value: 15800716
+Histogram RR: i: 74  Value: 15557708
+Histogram RR: i: 74  Value: 15326266
+Histogram RR: i: 74  Value: 15104690
+Histogram RR: i: 74  Value: 14838808
+Histogram RR: i: 75  Value: 14559462
+Histogram RR: i: 75  Value: 14316324
+Histogram RR: i: 75  Value: 14054176
+Histogram RR: i: 75  Value: 13785082
+Histogram RR: i: 76  Value: 13546356
+Histogram RR: i: 76  Value: 13277242
+Histogram RR: i: 76  Value: 13031172
+Histogram RR: i: 76  Value: 12814162
+Histogram RR: i: 77  Value: 12566580
+Histogram RR: i: 77  Value: 12308986
+Histogram RR: i: 77  Value: 12039640
+Histogram RR: i: 77  Value: 11774516
+Histogram RR: i: 78  Value: 11526710
+Histogram RR: i: 78  Value: 11249472
+Histogram RR: i: 78  Value: 10996754
+Histogram RR: i: 78  Value: 10767548
+Histogram RR: i: 79  Value: 10513920
+Histogram RR: i: 79  Value: 10252542
+Histogram RR: i: 79  Value: 9976798
+Histogram RR: i: 79  Value: 9740420
+Histogram RR: i: 80  Value: 9503762
+Histogram RR: i: 80  Value: 9256268
+Histogram RR: i: 80  Value: 8988436
+Histogram RR: i: 80  Value: 8745252
+Histogram RR: i: 81  Value: 8532032
+Histogram RR: i: 81  Value: 8282630
+Histogram RR: i: 81  Value: 8031196
+Histogram RR: i: 81  Value: 7770986
+Histogram RR: i: 82  Value: 7527422
+Histogram RR: i: 82  Value: 7274870
+Histogram RR: i: 82  Value: 7034610
+Histogram RR: i: 82  Value: 6798536
+Histogram RR: i: 83  Value: 6579814
+Histogram RR: i: 83  Value: 6327896
+Histogram RR: i: 83  Value: 6079658
+Histogram RR: i: 83  Value: 5817326
+Histogram RR: i: 84  Value: 5575824
+Histogram RR: i: 84  Value: 5323476
+Histogram RR: i: 84  Value: 5075562
+Histogram RR: i: 84  Value: 4851636
+Histogram RR: i: 85  Value: 4627088
+Histogram RR: i: 85  Value: 4390606
+Histogram RR: i: 85  Value: 4166720
+Histogram RR: i: 85  Value: 3955346
+Histogram RR: i: 86  Value: 3724288
+Histogram RR: i: 86  Value: 3480848
+Histogram RR: i: 86  Value: 3257484
+Histogram RR: i: 86  Value: 3000966
+Histogram RR: i: 87  Value: 2774348
+Histogram RR: i: 87  Value: 2546604
+Histogram RR: i: 87  Value: 2296684
+Histogram RR: i: 87  Value: 2053420
+Histogram RR: i: 88  Value: 1818558
+Histogram RR: i: 88  Value: 1544766
+Histogram RR: i: 88  Value: 1291810
+Histogram RR: i: 88  Value: 1054802
+Histogram RR: i: 89  Value: 814476
+Histogram RR: i: 89  Value: 591842
+Histogram RR: i: 89  Value: 363884
+Histogram RR: i: 89  Value: 132074
+Histogram DR: i: 0  Value: 397268
+Histogram DR: i: 0  Value: 1183645
+Histogram DR: i: 0  Value: 1945456
+Histogram DR: i: 0  Value: 2673769
+Histogram DR: i: 1  Value: 3385511
+Histogram DR: i: 1  Value: 4078675
+Histogram DR: i: 1  Value: 4759630
+Histogram DR: i: 1  Value: 5440370
+Histogram DR: i: 2  Value: 6118704
+Histogram DR: i: 2  Value: 6763056
+Histogram DR: i: 2  Value: 7400717
+Histogram DR: i: 2  Value: 8043554
+Histogram DR: i: 3  Value: 8699427
+Histogram DR: i: 3  Value: 9352415
+Histogram DR: i: 3  Value: 10001380
+Histogram DR: i: 3  Value: 10651524
+Histogram DR: i: 4  Value: 11287754
+Histogram DR: i: 4  Value: 11904688
+Histogram DR: i: 4  Value: 12511880
+Histogram DR: i: 4  Value: 13077483
+Histogram DR: i: 5  Value: 13664097
+Histogram DR: i: 5  Value: 14256106
+Histogram DR: i: 5  Value: 14841018
+Histogram DR: i: 5  Value: 15397036
+Histogram DR: i: 6  Value: 15938196
+Histogram DR: i: 6  Value: 16497077
+Histogram DR: i: 6  Value: 17033269
+Histogram DR: i: 6  Value: 17577399
+Histogram DR: i: 7  Value: 18132022
+Histogram DR: i: 7  Value: 18653070
+Histogram DR: i: 7  Value: 19182094
+Histogram DR: i: 7  Value: 19738444
+Histogram DR: i: 8  Value: 20287193
+Histogram DR: i: 8  Value: 20796734
+Histogram DR: i: 8  Value: 21323592
+Histogram DR: i: 8  Value: 21848776
+Histogram DR: i: 9  Value: 22406547
+Histogram DR: i: 9  Value: 22946976
+Histogram DR: i: 9  Value: 23474387
+Histogram DR: i: 9  Value: 23961523
+Histogram DR: i: 10  Value: 24462004
+Histogram DR: i: 10  Value: 24916171
+Histogram DR: i: 10  Value: 25410016
+Histogram DR: i: 10  Value: 25899217
+Histogram DR: i: 11  Value: 26414384
+Histogram DR: i: 11  Value: 26912246
+Histogram DR: i: 11  Value: 27425028
+Histogram DR: i: 11  Value: 27917478
+Histogram DR: i: 12  Value: 28434060
+Histogram DR: i: 12  Value: 28919311
+Histogram DR: i: 12  Value: 29421420
+Histogram DR: i: 12  Value: 29904295
+Histogram DR: i: 13  Value: 30372376
+Histogram DR: i: 13  Value: 30802054
+Histogram DR: i: 13  Value: 31215753
+Histogram DR: i: 13  Value: 31615565
+Histogram DR: i: 14  Value: 32060431
+Histogram DR: i: 14  Value: 32487057
+Histogram DR: i: 14  Value: 32966861
+Histogram DR: i: 14  Value: 33374576
+Histogram DR: i: 15  Value: 33806706
+Histogram DR: i: 15  Value: 34229655
+Histogram DR: i: 15  Value: 34634656
+Histogram DR: i: 15  Value: 35055418
+Histogram DR: i: 16  Value: 35503909
+Histogram DR: i: 16  Value: 35899925
+Histogram DR: i: 16  Value: 36244561
+Histogram DR: i: 16  Value: 36590345
+Histogram DR: i: 17  Value: 36964185
+Histogram DR: i: 17  Value: 37367709
+Histogram DR: i: 17  Value: 37750039
+Histogram DR: i: 17  Value: 38102205
+Histogram DR: i: 18  Value: 38442723
+Histogram DR: i: 18  Value: 38744321
+Histogram DR: i: 18  Value: 39060340
+Histogram DR: i: 18  Value: 39412343
+Histogram DR: i: 19  Value: 39757382
+Histogram DR: i: 19  Value: 40099812
+Histogram DR: i: 19  Value: 40478233
+Histogram DR: i: 19  Value: 40791485
+Histogram DR: i: 20  Value: 41119239
+Histogram DR: i: 20  Value: 41424962
+Histogram DR: i: 20  Value: 41709095
+Histogram DR: i: 20  Value: 41985111
+Histogram DR: i: 21  Value: 42285854
+Histogram DR: i: 21  Value: 42598828
+Histogram DR: i: 21  Value: 42910364
+Histogram DR: i: 21  Value: 43206202
+Histogram DR: i: 22  Value: 43529832
+Histogram DR: i: 22  Value: 43770456
+Histogram DR: i: 22  Value: 43991004
+Histogram DR: i: 22  Value: 44236864
+Histogram DR: i: 23  Value: 44474831
+Histogram DR: i: 23  Value: 44714721
+Histogram DR: i: 23  Value: 44962194
+Histogram DR: i: 23  Value: 45160541
+Histogram DR: i: 24  Value: 45342531
+Histogram DR: i: 24  Value: 45464361
+Histogram DR: i: 24  Value: 45628056
+Histogram DR: i: 24  Value: 45772956
+Histogram DR: i: 25  Value: 45876722
+Histogram DR: i: 25  Value: 46065047
+Histogram DR: i: 25  Value: 46223367
+Histogram DR: i: 25  Value: 46393246
+Histogram DR: i: 26  Value: 46500965
+Histogram DR: i: 26  Value: 46605765
+Histogram DR: i: 26  Value: 46796131
+Histogram DR: i: 26  Value: 46985569
+Histogram DR: i: 27  Value: 47066767
+Histogram DR: i: 27  Value: 47091293
+Histogram DR: i: 27  Value: 47136267
+Histogram DR: i: 27  Value: 47211305
+Histogram DR: i: 28  Value: 47287454
+Histogram DR: i: 28  Value: 47267918
+Histogram DR: i: 28  Value: 47314885
+Histogram DR: i: 28  Value: 47389189
+Histogram DR: i: 29  Value: 47451483
+Histogram DR: i: 29  Value: 47522741
+Histogram DR: i: 29  Value: 47575105
+Histogram DR: i: 29  Value: 47617983
+Histogram DR: i: 30  Value: 47661506
+Histogram DR: i: 30  Value: 47688895
+Histogram DR: i: 30  Value: 47743608
+Histogram DR: i: 30  Value: 47795158
+Histogram DR: i: 31  Value: 47859638
+Histogram DR: i: 31  Value: 47888255
+Histogram DR: i: 31  Value: 47905939
+Histogram DR: i: 31  Value: 47980025
+Histogram DR: i: 32  Value: 48048929
+Histogram DR: i: 32  Value: 48084230
+Histogram DR: i: 32  Value: 48111736
+Histogram DR: i: 32  Value: 48126195
+Histogram DR: i: 33  Value: 48116587
+Histogram DR: i: 33  Value: 48093678
+Histogram DR: i: 33  Value: 48130271
+Histogram DR: i: 33  Value: 48119420
+Histogram DR: i: 34  Value: 48143502
+Histogram DR: i: 34  Value: 48141431
+Histogram DR: i: 34  Value: 48120496
+Histogram DR: i: 34  Value: 48101969
+Histogram DR: i: 35  Value: 48081144
+Histogram DR: i: 35  Value: 48038845
+Histogram DR: i: 35  Value: 48033951
+Histogram DR: i: 35  Value: 48047180
+Histogram DR: i: 36  Value: 47999267
+Histogram DR: i: 36  Value: 47913957
+Histogram DR: i: 36  Value: 47844876
+Histogram DR: i: 36  Value: 47756703
+Histogram DR: i: 37  Value: 47705289
+Histogram DR: i: 37  Value: 47653913
+Histogram DR: i: 37  Value: 47625157
+Histogram DR: i: 37  Value: 47534730
+Histogram DR: i: 38  Value: 47481605
+Histogram DR: i: 38  Value: 47333298
+Histogram DR: i: 38  Value: 47280190
+Histogram DR: i: 38  Value: 47148406
+Histogram DR: i: 39  Value: 47007908
+Histogram DR: i: 39  Value: 46907348
+Histogram DR: i: 39  Value: 46806284
+Histogram DR: i: 39  Value: 46675453
+Histogram DR: i: 40  Value: 46559726
+Histogram DR: i: 40  Value: 46433565
+Histogram DR: i: 40  Value: 46250814
+Histogram DR: i: 40  Value: 46032027
+Histogram DR: i: 41  Value: 45840718
+Histogram DR: i: 41  Value: 45689881
+Histogram DR: i: 41  Value: 45478800
+Histogram DR: i: 41  Value: 45269507
+Histogram DR: i: 42  Value: 45002274
+Histogram DR: i: 42  Value: 44760629
+Histogram DR: i: 42  Value: 44536071
+Histogram DR: i: 42  Value: 44230104
+Histogram DR: i: 43  Value: 43937102
+Histogram DR: i: 43  Value: 43745511
+Histogram DR: i: 43  Value: 43490050
+Histogram DR: i: 43  Value: 43291451
+Histogram DR: i: 44  Value: 43103871
+Histogram DR: i: 44  Value: 42855691
+Histogram DR: i: 44  Value: 42602668
+Histogram DR: i: 44  Value: 42422946
+Histogram DR: i: 45  Value: 42224076
+Histogram DR: i: 45  Value: 42047792
+Histogram DR: i: 45  Value: 41868217
+Histogram DR: i: 45  Value: 41665955
+Histogram DR: i: 46  Value: 41466430
+Histogram DR: i: 46  Value: 41307957
+Histogram DR: i: 46  Value: 41106769
+Histogram DR: i: 46  Value: 40847442
+Histogram DR: i: 47  Value: 40642041
+Histogram DR: i: 47  Value: 40379346
+Histogram DR: i: 47  Value: 40070541
+Histogram DR: i: 47  Value: 39692180
+Histogram DR: i: 48  Value: 39392293
+Histogram DR: i: 48  Value: 39088779
+Histogram DR: i: 48  Value: 38814715
+Histogram DR: i: 48  Value: 38566230
+Histogram DR: i: 49  Value: 38279809
+Histogram DR: i: 49  Value: 38014352
+Histogram DR: i: 49  Value: 37754917
+Histogram DR: i: 49  Value: 37459925
+Histogram DR: i: 50  Value: 37189052
+Histogram DR: i: 50  Value: 36961322
+Histogram DR: i: 50  Value: 36746871
+Histogram DR: i: 50  Value: 36523236
+Histogram DR: i: 51  Value: 36243610
+Histogram DR: i: 51  Value: 35951103
+Histogram DR: i: 51  Value: 35751311
+Histogram DR: i: 51  Value: 35460301
+Histogram DR: i: 52  Value: 35167515
+Histogram DR: i: 52  Value: 34953442
+Histogram DR: i: 52  Value: 34713374
+Histogram DR: i: 52  Value: 34471363
+Histogram DR: i: 53  Value: 34234158
+Histogram DR: i: 53  Value: 33968812
+Histogram DR: i: 53  Value: 33727254
+Histogram DR: i: 53  Value: 33517370
+Histogram DR: i: 54  Value: 33303925
+Histogram DR: i: 54  Value: 33072790
+Histogram DR: i: 54  Value: 32827802
+Histogram DR: i: 54  Value: 32540769
+Histogram DR: i: 55  Value: 32282339
+Histogram DR: i: 55  Value: 31951024
+Histogram DR: i: 55  Value: 31608249
+Histogram DR: i: 55  Value: 31320956
+Histogram DR: i: 56  Value: 31051166
+Histogram DR: i: 56  Value: 30816913
+Histogram DR: i: 56  Value: 30511305
+Histogram DR: i: 56  Value: 30223715
+Histogram DR: i: 57  Value: 29936851
+Histogram DR: i: 57  Value: 29674324
+Histogram DR: i: 57  Value: 29391595
+Histogram DR: i: 57  Value: 29130889
+Histogram DR: i: 58  Value: 28846180
+Histogram DR: i: 58  Value: 28588411
+Histogram DR: i: 58  Value: 28261917
+Histogram DR: i: 58  Value: 27936574
+Histogram DR: i: 59  Value: 27652926
+Histogram DR: i: 59  Value: 27332710
+Histogram DR: i: 59  Value: 27085468
+Histogram DR: i: 59  Value: 26847418
+Histogram DR: i: 60  Value: 26583958
+Histogram DR: i: 60  Value: 26318276
+Histogram DR: i: 60  Value: 26071637
+Histogram DR: i: 60  Value: 25808219
+Histogram DR: i: 61  Value: 25525046
+Histogram DR: i: 61  Value: 25274882
+Histogram DR: i: 61  Value: 25024422
+Histogram DR: i: 61  Value: 24795270
+Histogram DR: i: 62  Value: 24578846
+Histogram DR: i: 62  Value: 24339011
+Histogram DR: i: 62  Value: 24109987
+Histogram DR: i: 62  Value: 23846673
+Histogram DR: i: 63  Value: 23572776
+Histogram DR: i: 63  Value: 23304109
+Histogram DR: i: 63  Value: 23061355
+Histogram DR: i: 63  Value: 22819960
+Histogram DR: i: 64  Value: 22600115
+Histogram DR: i: 64  Value: 22347895
+Histogram DR: i: 64  Value: 22103306
+Histogram DR: i: 64  Value: 21890182
+Histogram DR: i: 65  Value: 21670081
+Histogram DR: i: 65  Value: 21469845
+Histogram DR: i: 65  Value: 21258809
+Histogram DR: i: 65  Value: 21036116
+Histogram DR: i: 66  Value: 20770162
+Histogram DR: i: 66  Value: 20530363
+Histogram DR: i: 66  Value: 20276948
+Histogram DR: i: 66  Value: 20006471
+Histogram DR: i: 67  Value: 19693426
+Histogram DR: i: 67  Value: 19442629
+Histogram DR: i: 67  Value: 19192249
+Histogram DR: i: 67  Value: 18959163
+Histogram DR: i: 68  Value: 18741358
+Histogram DR: i: 68  Value: 18493025
+Histogram DR: i: 68  Value: 18194669
+Histogram DR: i: 68  Value: 17914077
+Histogram DR: i: 69  Value: 17603769
+Histogram DR: i: 69  Value: 17260723
+Histogram DR: i: 69  Value: 16925752
+Histogram DR: i: 69  Value: 16617882
+Histogram DR: i: 70  Value: 16357610
+Histogram DR: i: 70  Value: 16118180
+Histogram DR: i: 70  Value: 15844919
+Histogram DR: i: 70  Value: 15564569
+Histogram DR: i: 71  Value: 15325627
+Histogram DR: i: 71  Value: 15127550
+Histogram DR: i: 71  Value: 14926053
+Histogram DR: i: 71  Value: 14691754
+Histogram DR: i: 72  Value: 14453170
+Histogram DR: i: 72  Value: 14207277
+Histogram DR: i: 72  Value: 13938041
+Histogram DR: i: 72  Value: 13622536
+Histogram DR: i: 73  Value: 13332930
+Histogram DR: i: 73  Value: 13067377
+Histogram DR: i: 73  Value: 12795163
+Histogram DR: i: 73  Value: 12496989
+Histogram DR: i: 74  Value: 12209039
+Histogram DR: i: 74  Value: 11920714
+Histogram DR: i: 74  Value: 11593497
+Histogram DR: i: 74  Value: 11287850
+Histogram DR: i: 75  Value: 11036700
+Histogram DR: i: 75  Value: 10796615
+Histogram DR: i: 75  Value: 10563179
+Histogram DR: i: 75  Value: 10314744
+Histogram DR: i: 76  Value: 10042704
+Histogram DR: i: 76  Value: 9693801
+Histogram DR: i: 76  Value: 9303965
+Histogram DR: i: 76  Value: 8965352
+Histogram DR: i: 77  Value: 8676086
+Histogram DR: i: 77  Value: 8423487
+Histogram DR: i: 77  Value: 8175127
+Histogram DR: i: 77  Value: 7933333
+Histogram DR: i: 78  Value: 7699418
+Histogram DR: i: 78  Value: 7469675
+Histogram DR: i: 78  Value: 7266104
+Histogram DR: i: 78  Value: 7099207
+Histogram DR: i: 79  Value: 6914174
+Histogram DR: i: 79  Value: 6751456
+Histogram DR: i: 79  Value: 6618310
+Histogram DR: i: 79  Value: 6461568
+Histogram DR: i: 80  Value: 6304374
+Histogram DR: i: 80  Value: 6156606
+Histogram DR: i: 80  Value: 6035679
+Histogram DR: i: 80  Value: 5904127
+Histogram DR: i: 81  Value: 5769131
+Histogram DR: i: 81  Value: 5630848
+Histogram DR: i: 81  Value: 5479315
+Histogram DR: i: 81  Value: 5354468
+Histogram DR: i: 82  Value: 5217851
+Histogram DR: i: 82  Value: 5069909
+Histogram DR: i: 82  Value: 4908741
+Histogram DR: i: 82  Value: 4689347
+Histogram DR: i: 83  Value: 4517609
+Histogram DR: i: 83  Value: 4348298
+Histogram DR: i: 83  Value: 4165873
+Histogram DR: i: 83  Value: 3965281
+Histogram DR: i: 84  Value: 3781525
+Histogram DR: i: 84  Value: 3607865
+Histogram DR: i: 84  Value: 3434049
+Histogram DR: i: 84  Value: 3249072
+Histogram DR: i: 85  Value: 3078322
+Histogram DR: i: 85  Value: 2930580
+Histogram DR: i: 85  Value: 2751087
+Histogram DR: i: 85  Value: 2563457
+Histogram DR: i: 86  Value: 2391017
+Histogram DR: i: 86  Value: 2248341
+Histogram DR: i: 86  Value: 2109287
+Histogram DR: i: 86  Value: 1977188
+Histogram DR: i: 87  Value: 1837385
+Histogram DR: i: 87  Value: 1672745
+Histogram DR: i: 87  Value: 1487851
+Histogram DR: i: 87  Value: 1332013
+Histogram DR: i: 88  Value: 1185570
+Histogram DR: i: 88  Value: 1038216
+Histogram DR: i: 88  Value: 892709
+Histogram DR: i: 88  Value: 715978
+Histogram DR: i: 89  Value: 528683
+Histogram DR: i: 89  Value: 363505
+Histogram DR: i: 89  Value: 214580
+Histogram DR: i: 89  Value: 69851
+Omega: i: 0  Value: 2.366295
+Omega: i: 1  Value: 1.744424
+Omega: i: 2  Value: 1.417852
+Omega: i: 3  Value: 1.215359
+Omega: i: 4  Value: 1.086671
+Omega: i: 5  Value: 1.001976
+Omega: i: 6  Value: 0.936969
+Omega: i: 7  Value: 0.884516
+Omega: i: 8  Value: 0.845738
+Omega: i: 9  Value: 0.810932
+Omega: i: 10  Value: 0.775444
+Omega: i: 11  Value: 0.747078
+Omega: i: 12  Value: 0.716893
+Omega: i: 13  Value: 0.686126
+Omega: i: 14  Value: 0.656720
+Omega: i: 15  Value: 0.636104
+Omega: i: 16  Value: 0.617974
+Omega: i: 17  Value: 0.600112
+Omega: i: 18  Value: 0.578877
+Omega: i: 19  Value: 0.563262
+Omega: i: 20  Value: 0.550832
+Omega: i: 21  Value: 0.539609
+Omega: i: 22  Value: 0.531510
+Omega: i: 23  Value: 0.525327
+Omega: i: 24  Value: 0.517970
+Omega: i: 25  Value: 0.506366
+Omega: i: 26  Value: 0.494542
+Omega: i: 27  Value: 0.482274
+Omega: i: 28  Value: 0.474489
+Omega: i: 29  Value: 0.466948
+Omega: i: 30  Value: 0.452088
+Omega: i: 31  Value: 0.431619
+Omega: i: 32  Value: 0.416181
+Omega: i: 33  Value: 0.406900
+Omega: i: 34  Value: 0.397425
+Omega: i: 35  Value: 0.389916
+Omega: i: 36  Value: 0.381751
+Omega: i: 37  Value: 0.381309
+Omega: i: 38  Value: 0.379083
+Omega: i: 39  Value: 0.379261
+Omega: i: 40  Value: 0.372559
+Omega: i: 41  Value: 0.363783
+Omega: i: 42  Value: 0.348988
+Omega: i: 43  Value: 0.329613
+Omega: i: 44  Value: 0.316679
+Omega: i: 45  Value: 0.313271
+Omega: i: 46  Value: 0.304886
+Omega: i: 47  Value: 0.299259
+Omega: i: 48  Value: 0.292769
+Omega: i: 49  Value: 0.281701
+Omega: i: 50  Value: 0.269657
+Omega: i: 51  Value: 0.256180
+Omega: i: 52  Value: 0.244510
+Omega: i: 53  Value: 0.234284
+Omega: i: 54  Value: 0.231344
+Omega: i: 55  Value: 0.221851
+Omega: i: 56  Value: 0.208955
+Omega: i: 57  Value: 0.204129
+Omega: i: 58  Value: 0.193533
+Omega: i: 59  Value: 0.184692
+Omega: i: 60  Value: 0.176271
+Omega: i: 61  Value: 0.172073
+Omega: i: 62  Value: 0.166634
+Omega: i: 63  Value: 0.153714
+Omega: i: 64  Value: 0.136256
+Omega: i: 65  Value: 0.122668
+Omega: i: 66  Value: 0.118549
+Omega: i: 67  Value: 0.115096
+Omega: i: 68  Value: 0.106350
+Omega: i: 69  Value: 0.097995
+Omega: i: 70  Value: 0.093110
+Omega: i: 71  Value: 0.091951
+Omega: i: 72  Value: 0.088961
+Omega: i: 73  Value: 0.091528
+Omega: i: 74  Value: 0.094274
+Omega: i: 75  Value: 0.091576
+Omega: i: 76  Value: 0.086663
+Omega: i: 77  Value: 0.078397
+Omega: i: 78  Value: 0.067957
+Omega: i: 79  Value: 0.063866
+Omega: i: 80  Value: 0.062843
+Omega: i: 81  Value: 0.059758
+Omega: i: 82  Value: 0.054384
+Omega: i: 83  Value: 0.049961
+Omega: i: 84  Value: 0.044801
+Omega: i: 85  Value: 0.040515
+Omega: i: 86  Value: 0.036992
+Omega: i: 87  Value: 0.036093
+Omega: i: 88  Value: 0.035228
+Omega: i: 89  Value: 0.036151
+Omega: i: 90  Value: 0.038171
+Omega: i: 91  Value: 0.036892
+Omega: i: 92  Value: 0.031017
+Omega: i: 93  Value: 0.028814
+Omega: i: 94  Value: 0.027238
+Omega: i: 95  Value: 0.021355
+Omega: i: 96  Value: 0.016230
+Omega: i: 97  Value: 0.014934
+Omega: i: 98  Value: 0.008569
+Omega: i: 99  Value: 0.009111
+Omega: i: 100  Value: 0.012523
+Omega: i: 101  Value: 0.013207
+Omega: i: 102  Value: 0.014399
+Omega: i: 103  Value: 0.017113
+Omega: i: 104  Value: 0.020167
+Omega: i: 105  Value: 0.023769
+Omega: i: 106  Value: 0.025144
+Omega: i: 107  Value: 0.022321
+Omega: i: 108  Value: 0.018804
+Omega: i: 109  Value: 0.018017
+Omega: i: 110  Value: 0.016697
+Omega: i: 111  Value: 0.016183
+Omega: i: 112  Value: 0.019937
+Omega: i: 113  Value: 0.024758
+Omega: i: 114  Value: 0.026704
+Omega: i: 115  Value: 0.024867
+Omega: i: 116  Value: 0.023913
+Omega: i: 117  Value: 0.021001
+Omega: i: 118  Value: 0.016805
+Omega: i: 119  Value: 0.015425
+Omega: i: 120  Value: 0.008825
+Omega: i: 121  Value: 0.007734
+Omega: i: 122  Value: 0.005494
+Omega: i: 123  Value: 0.003182
+Omega: i: 124  Value: -0.000499
+Omega: i: 125  Value: -0.000856
+Omega: i: 126  Value: -0.001539
+Omega: i: 127  Value: -0.004935
+Omega: i: 128  Value: -0.006740
+Omega: i: 129  Value: -0.006506
+Omega: i: 130  Value: -0.009703
+Omega: i: 131  Value: -0.011482
+Omega: i: 132  Value: -0.008164
+Omega: i: 133  Value: 0.000865
+Omega: i: 134  Value: 0.001094
+Omega: i: 135  Value: 0.003401
+Omega: i: 136  Value: 0.002279
+Omega: i: 137  Value: 0.005799
+Omega: i: 138  Value: 0.010069
+Omega: i: 139  Value: 0.005447
+Omega: i: 140  Value: -0.004463
+Omega: i: 141  Value: -0.009096
+Omega: i: 142  Value: -0.014439
+Omega: i: 143  Value: -0.018262
+Omega: i: 144  Value: -0.022643
+Omega: i: 145  Value: -0.024613
+Omega: i: 146  Value: -0.031572
+Omega: i: 147  Value: -0.038146
+Omega: i: 148  Value: -0.049353
+Omega: i: 149  Value: -0.058255
+Omega: i: 150  Value: -0.064655
+Omega: i: 151  Value: -0.063722
+Omega: i: 152  Value: -0.065487
+Omega: i: 153  Value: -0.063596
+Omega: i: 154  Value: -0.067993
+Omega: i: 155  Value: -0.073156
+Omega: i: 156  Value: -0.076742
+Omega: i: 157  Value: -0.081095
+Omega: i: 158  Value: -0.084681
+Omega: i: 159  Value: -0.086471
+Omega: i: 160  Value: -0.090886
+Omega: i: 161  Value: -0.094805
+Omega: i: 162  Value: -0.093287
+Omega: i: 163  Value: -0.096597
+Omega: i: 164  Value: -0.100045
+Omega: i: 165  Value: -0.105132
+Omega: i: 166  Value: -0.104939
+Omega: i: 167  Value: -0.096956
+Omega: i: 168  Value: -0.088382
+Omega: i: 169  Value: -0.083282
+Omega: i: 170  Value: -0.083607
+Omega: i: 171  Value: -0.074969
+Omega: i: 172  Value: -0.066787
+Omega: i: 173  Value: -0.069063
+Omega: i: 174  Value: -0.063991
+Omega: i: 175  Value: -0.057885
+Omega: i: 176  Value: -0.053942
+Omega: i: 177  Value: -0.051675
+Omega: i: 178  Value: -0.051442
+Omega: i: 179  Value: -0.051792
+Omega: i: 180  Value: -0.051961
+Omega: i: 181  Value: -0.059217
+Omega: i: 182  Value: -0.065199
+Omega: i: 183  Value: -0.062225
+Omega: i: 184  Value: -0.059281
+Omega: i: 185  Value: -0.057305
+Omega: i: 186  Value: -0.059326
+Omega: i: 187  Value: -0.063456
+Omega: i: 188  Value: -0.075536
+Omega: i: 189  Value: -0.081192
+Omega: i: 190  Value: -0.081351
+Omega: i: 191  Value: -0.074672
+Omega: i: 192  Value: -0.075587
+Omega: i: 193  Value: -0.078637
+Omega: i: 194  Value: -0.085044
+Omega: i: 195  Value: -0.090411
+Omega: i: 196  Value: -0.092326
+Omega: i: 197  Value: -0.096919
+Omega: i: 198  Value: -0.105870
+Omega: i: 199  Value: -0.110355
+Omega: i: 200  Value: -0.111859
+Omega: i: 201  Value: -0.117670
+Omega: i: 202  Value: -0.123381
+Omega: i: 203  Value: -0.128538
+Omega: i: 204  Value: -0.128534
+Omega: i: 205  Value: -0.126461
+Omega: i: 206  Value: -0.127119
+Omega: i: 207  Value: -0.127418
+Omega: i: 208  Value: -0.125417
+Omega: i: 209  Value: -0.130296
+Omega: i: 210  Value: -0.137566
+Omega: i: 211  Value: -0.142667
+Omega: i: 212  Value: -0.147022
+Omega: i: 213  Value: -0.148509
+Omega: i: 214  Value: -0.154365
+Omega: i: 215  Value: -0.161890
+Omega: i: 216  Value: -0.163908
+Omega: i: 217  Value: -0.167629
+Omega: i: 218  Value: -0.168501
+Omega: i: 219  Value: -0.173728
+Omega: i: 220  Value: -0.180281
+Omega: i: 221  Value: -0.181993
+Omega: i: 222  Value: -0.183594
+Omega: i: 223  Value: -0.182323
+Omega: i: 224  Value: -0.186195
+Omega: i: 225  Value: -0.193115
+Omega: i: 226  Value: -0.195016
+Omega: i: 227  Value: -0.199011
+Omega: i: 228  Value: -0.201731
+Omega: i: 229  Value: -0.204764
+Omega: i: 230  Value: -0.208191
+Omega: i: 231  Value: -0.210842
+Omega: i: 232  Value: -0.211847
+Omega: i: 233  Value: -0.216128
+Omega: i: 234  Value: -0.210647
+Omega: i: 235  Value: -0.206411
+Omega: i: 236  Value: -0.206688
+Omega: i: 237  Value: -0.205351
+Omega: i: 238  Value: -0.205457
+Omega: i: 239  Value: -0.206963
+Omega: i: 240  Value: -0.208294
+Omega: i: 241  Value: -0.211174
+Omega: i: 242  Value: -0.215308
+Omega: i: 243  Value: -0.213360
+Omega: i: 244  Value: -0.210224
+Omega: i: 245  Value: -0.209512
+Omega: i: 246  Value: -0.209315
+Omega: i: 247  Value: -0.208951
+Omega: i: 248  Value: -0.211600
+Omega: i: 249  Value: -0.211513
+Omega: i: 250  Value: -0.216748
+Omega: i: 251  Value: -0.222409
+Omega: i: 252  Value: -0.218304
+Omega: i: 253  Value: -0.211662
+Omega: i: 254  Value: -0.212361
+Omega: i: 255  Value: -0.213860
+Omega: i: 256  Value: -0.216355
+Omega: i: 257  Value: -0.216989
+Omega: i: 258  Value: -0.215463
+Omega: i: 259  Value: -0.218871
+Omega: i: 260  Value: -0.221183
+Omega: i: 261  Value: -0.226990
+Omega: i: 262  Value: -0.230616
+Omega: i: 263  Value: -0.232613
+Omega: i: 264  Value: -0.230857
+Omega: i: 265  Value: -0.233634
+Omega: i: 266  Value: -0.235659
+Omega: i: 267  Value: -0.237712
+Omega: i: 268  Value: -0.235947
+Omega: i: 269  Value: -0.240953
+Omega: i: 270  Value: -0.245150
+Omega: i: 271  Value: -0.244883
+Omega: i: 272  Value: -0.249406
+Omega: i: 273  Value: -0.252832
+Omega: i: 274  Value: -0.248325
+Omega: i: 275  Value: -0.244517
+Omega: i: 276  Value: -0.236223
+Omega: i: 277  Value: -0.228494
+Omega: i: 278  Value: -0.224293
+Omega: i: 279  Value: -0.222073
+Omega: i: 280  Value: -0.222636
+Omega: i: 281  Value: -0.219725
+Omega: i: 282  Value: -0.215740
+Omega: i: 283  Value: -0.212223
+Omega: i: 284  Value: -0.206767
+Omega: i: 285  Value: -0.209164
+Omega: i: 286  Value: -0.213522
+Omega: i: 287  Value: -0.211205
+Omega: i: 288  Value: -0.208769
+Omega: i: 289  Value: -0.204732
+Omega: i: 290  Value: -0.198415
+Omega: i: 291  Value: -0.185355
+Omega: i: 292  Value: -0.177153
+Omega: i: 293  Value: -0.176585
+Omega: i: 294  Value: -0.176478
+Omega: i: 295  Value: -0.171601
+Omega: i: 296  Value: -0.167558
+Omega: i: 297  Value: -0.158674
+Omega: i: 298  Value: -0.141631
+Omega: i: 299  Value: -0.132291
+Omega: i: 300  Value: -0.129523
+Omega: i: 301  Value: -0.128092
+Omega: i: 302  Value: -0.128927
+Omega: i: 303  Value: -0.131170
+Omega: i: 304  Value: -0.128374
+Omega: i: 305  Value: -0.111460
+Omega: i: 306  Value: -0.082163
+Omega: i: 307  Value: -0.059654
+Omega: i: 308  Value: -0.043077
+Omega: i: 309  Value: -0.029942
+Omega: i: 310  Value: -0.021452
+Omega: i: 311  Value: -0.012493
+Omega: i: 312  Value: -0.003290
+Omega: i: 313  Value: 0.006989
+Omega: i: 314  Value: 0.011123
+Omega: i: 315  Value: 0.013916
+Omega: i: 316  Value: 0.014282
+Omega: i: 317  Value: 0.006894
+Omega: i: 318  Value: -0.007617
+Omega: i: 319  Value: -0.016823
+Omega: i: 320  Value: -0.016043
+Omega: i: 321  Value: -0.016066
+Omega: i: 322  Value: -0.029115
+Omega: i: 323  Value: -0.038485
+Omega: i: 324  Value: -0.043031
+Omega: i: 325  Value: -0.054641
+Omega: i: 326  Value: -0.061502
+Omega: i: 327  Value: -0.075766
+Omega: i: 328  Value: -0.086372
+Omega: i: 329  Value: -0.098590
+Omega: i: 330  Value: -0.106090
+Omega: i: 331  Value: -0.089523
+Omega: i: 332  Value: -0.086850
+Omega: i: 333  Value: -0.085566
+Omega: i: 334  Value: -0.087123
+Omega: i: 335  Value: -0.082171
+Omega: i: 336  Value: -0.076856
+Omega: i: 337  Value: -0.074800
+Omega: i: 338  Value: -0.078532
+Omega: i: 339  Value: -0.067251
+Omega: i: 340  Value: -0.067722
+Omega: i: 341  Value: -0.087204
+Omega: i: 342  Value: -0.081302
+Omega: i: 343  Value: -0.067467
+Omega: i: 344  Value: -0.061097
+Omega: i: 345  Value: -0.073645
+Omega: i: 346  Value: -0.082826
+Omega: i: 347  Value: -0.113785
+Omega: i: 348  Value: -0.126070
+Omega: i: 349  Value: -0.113930
+Omega: i: 350  Value: -0.094992
+Omega: i: 351  Value: -0.103174
+Omega: i: 352  Value: -0.111889
+Omega: i: 353  Value: -0.158696
+Omega: i: 354  Value: -0.205369
+Omega: i: 355  Value: -0.189103
+Omega: i: 356  Value: -0.156312
+Omega: i: 357  Value: -0.127301
+Omega: i: 358  Value: -0.120819
+Omega: i: 359  Value: -0.039296
+Run time (ms): 23801
